@@ -1,5 +1,8 @@
 # Selenium Extension for Docker Desktop
 
+<img width="1326" alt="image" src="https://github.com/collabnix/selenium-docker-extension/assets/34368930/56b2c004-0460-45ae-ae57-011b13e328c8">
+
+
 This repository defines an example of a Docker extension. The files in this repository have been automatically generated as a result of running `docker extension init`.
 
 This extension is composed of:
