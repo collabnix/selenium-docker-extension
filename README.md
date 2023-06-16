@@ -71,6 +71,7 @@ driver.quit()
 print("Test Execution Successfully Completed!")
 ```
 
+<img width="1340" alt="image" src="https://github.com/collabnix/selenium-docker-extension/assets/34368930/5421b054-d822-4000-877b-8d7f833c72f2">
 
 
 
