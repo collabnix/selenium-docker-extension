@@ -11,7 +11,7 @@ LABEL org.opencontainers.image.title="Selenium" \
     com.docker.extension.detailed-description="Selenium Docker Extensions allows you to spin up a Selenium Webdriver Docker containerwith a single click." \
     com.docker.extension.publisher-url='[{"title":"GitHub", "url":"https://github.com/collabnix/selenium-docker-extension/"}]' \
     com.docker.extension.additional-urls='[{"title":"GitHub","url":"https://github.com/collabnix/selenium-docker-extension/"}]' \
-    com.docker.extension.changelog="<p>### Added  <ul><li>Support for both amd64 and arm64</li></ul></p><p>### Changed<ul><li>some small refactoring</li></ul></p><p>### Fixed<ul><li>labelling</li></ul></p>"
+    com.docker.extension.changelog="<p> Extension changelog<ul><li>New Feature </li>  <li>Support for both amd64 and arm64</li></ul></p>"
 
 COPY docker-compose.yaml .
 COPY metadata.json .
